@@ -189,6 +189,9 @@ ul li{
     margin-bottom: 20px;
     font-size: 32px;
 }
+ul li{
+    list-style: none;
+}
 
 /* Footer */
 footer {
