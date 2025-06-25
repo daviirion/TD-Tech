@@ -273,3 +273,14 @@ footer {
 .btn-card:hover {
     background-color: #023e8a;
 }
+.conteudo {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+}
+
+.conteudo ul {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+}
